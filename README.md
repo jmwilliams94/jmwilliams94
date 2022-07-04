@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmwilliams94
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning at Academy Xi
-- 💞️ I’m looking to collaborate on student studies.
+- 🌱 I’ve just completed the Front End Web Development: Transform course held by Academy Xi.
+- 💞️ I’m looking to grow as a developer with a group of likeminded people.
 - 📫 How to reach me - via github.
 
 <!---
